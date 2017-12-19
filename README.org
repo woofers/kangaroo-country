@@ -1,0 +1,50 @@
+
+#+TITLE:	Kangaroo Country
+#+AUTHOR:	Jaxson Van Doorn
+#+EMAIL:	jaxson.vandoorn@gmail.com
+#+OPTIONS:  num:nil
+
+* Kangaroo Country
+*Play as two kangaroos trying to traverse the outback*
+
+/Kangaroo Country/ is a 2D game built built in Actionscrpt 3 for Programming 12.  Game features two fully completed levels.  More levels can be easily added by using a Tile Map Editor.
+** Screenshots
+
+#+CAPTION: Title Screen
+#+NAME:    Title Screen
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[./screenshots/title.png]]
+
+#+CAPTION: Ball
+#+NAME:    Ball
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[./screenshots/ball.png]]
+
+#+CAPTION: Bridge
+#+NAME:    Bridge
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[./screenshots/bridge.png]]
+
+#+CAPTION: Leap
+#+NAME:    Leap
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[./screenshots/leap.png]]
+
+#+CAPTION: Level 2
+#+NAME:    Level 2
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[./screenshots/level2.png]]
+
+#+CAPTION: Floating Bridge
+#+NAME:    Floating Bridge
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[./screenshots/float bridge.png]]
+
+** Acknowledgments
+**** *Designed and Programed by* /Jaxson Van Doorn/
+**** *Copyright 2016*, /Jaxson Van Doorn/
+** Other Projects
+**** [[https://github.com/woofers/java-projects/tree/master/Woofers3D][Woofers3D]]
+**** [[https://github.com/woofers/whale][Whale]]
+**** [[https://github.com/woofers/k9-krew][K9Krew]]
+**** [[https://github.com/woofers/dotfiles][Dotfiles]]
