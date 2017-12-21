@@ -32,7 +32,7 @@
 
 ![img](./screenshots/level2.png "Level 2")
 
-![img](./screenshots/float bridge.png "Floating Bridge")
+![img](./screenshots/float_bridge.png "Floating Bridge")
 
 ## Acknowledgments<a id="sec-1-2" name="sec-1-2"></a>
 
@@ -42,7 +42,7 @@
 
 ## Other Projects<a id="sec-1-3" name="sec-1-3"></a>
 
--   [Woofers3D](https://github.com/woofers/java-projects/tree/master/Woofers3D)
+-   [Woofers3D](https://github.com/woofers/woofers3d)
 
 -   [Whale](https://github.com/woofers/whale)
 

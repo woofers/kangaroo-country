@@ -38,13 +38,13 @@
 #+CAPTION: Floating Bridge
 #+NAME:    Floating Bridge
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[./screenshots/float bridge.png]]
+[[./screenshots/float_bridge.png]]
 
 ** Acknowledgments
 **** *Designed and Programed by* /Jaxson Van Doorn/
 **** *Copyright 2016*, /Jaxson Van Doorn/
 ** Other Projects
-**** [[https://github.com/woofers/java-projects/tree/master/Woofers3D][Woofers3D]]
+**** [[https://github.com/woofers/woofers3d][Woofers3D]]
 **** [[https://github.com/woofers/whale][Whale]]
 **** [[https://github.com/woofers/k9-krew][K9Krew]]
 **** [[https://github.com/woofers/dotfiles][Dotfiles]]
