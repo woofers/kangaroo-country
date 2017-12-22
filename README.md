@@ -4,9 +4,10 @@
 <ul>
 <li><a href="#sec-1">Kangaroo Country</a>
 <ul>
-<li><a href="#sec-1-1">Screenshots</a></li>
-<li><a href="#sec-1-2">Acknowledgments</a></li>
-<li><a href="#sec-1-3">Other Projects</a></li>
+<li><a href="#sec-1-1">Downloads</a></li>
+<li><a href="#sec-1-2">Screenshots</a></li>
+<li><a href="#sec-1-3">Acknowledgments</a></li>
+<li><a href="#sec-1-4">Other Projects</a></li>
 </ul>
 </li>
 </ul>
@@ -20,7 +21,11 @@
 
 *Kangaroo Country* is a 2D game built built in Actionscrpt 3 for Programming 12.  Game features two fully completed levels.  More levels can be easily added by using a Tile Map Editor.
 
-## Screenshots<a id="sec-1-1" name="sec-1-1"></a>
+## Downloads<a id="sec-1-1" name="sec-1-1"></a>
+
+Latest releases can be found [here](https://github.com/woofers/kangaroo-country/releases).
+
+## Screenshots<a id="sec-1-2" name="sec-1-2"></a>
 
 ![img](./screenshots/title.png "Title Screen")
 
@@ -34,13 +39,13 @@
 
 ![img](./screenshots/float_bridge.png "Floating Bridge")
 
-## Acknowledgments<a id="sec-1-2" name="sec-1-2"></a>
+## Acknowledgments<a id="sec-1-3" name="sec-1-3"></a>
 
 -   **Designed and Programed by** *Jaxson Van Doorn*
 
 -   **Copyright 2016**, *Jaxson Van Doorn*
 
-## Other Projects<a id="sec-1-3" name="sec-1-3"></a>
+## Other Projects<a id="sec-1-4" name="sec-1-4"></a>
 
 -   [Woofers3D](https://github.com/woofers/woofers3d)
 
