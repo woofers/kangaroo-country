@@ -2,7 +2,7 @@
 #+TITLE:	Kangaroo Country
 #+AUTHOR:	Jaxson Van Doorn
 #+EMAIL:	jaxson.vandoorn@gmail.com
-#+OPTIONS:  num:nil
+#+OPTIONS:  num:nil toc:nil
 
 * Kangaroo Country
 *Play as two kangaroos trying to traverse the outback*
@@ -42,12 +42,3 @@ Latest releases can be found [[https://github.com/woofers/kangaroo-country/relea
 #+NAME:    Floating Bridge
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[./screenshots/float_bridge.png]]
-
-** Acknowledgments
-**** *Designed and Programed by* /Jaxson Van Doorn/
-**** *Copyright 2016*, /Jaxson Van Doorn/
-** Other Projects
-**** [[https://github.com/woofers/woofers3d][Woofers3D]]
-**** [[https://github.com/woofers/whale][Whale]]
-**** [[https://github.com/woofers/k9-krew][K9Krew]]
-**** [[https://github.com/woofers/dotfiles][Dotfiles]]
